@@ -10,16 +10,20 @@ This Privacy Policy outlines how Plated: Recipes & Groceries ("the App") handles
 
 **No Tracking:** The App does not track your location, browsing behavior, or usage patterns for advertising purposes. We do not use third-party behavioral analytics or advertising services that could collect your personal data.
 
-## 2. In-App Purchases and Subscriptions
+## 2. Third-Party Data Processors (GDPR Compliance)
 
-To manage in-app purchases (such as Magic Imports and premium access), we use a third-party service called RevenueCat. When you make a purchase or subscribe, RevenueCat collects anonymous data such as purchase history, subscription status, and basic device identifiers to validate and manage your access. RevenueCat does not receive your name, email, or exact location.
+While core data is stored locally, we use specific third-party service providers ("Data Processors") to enable certain premium features (such as AI extraction and subscriptions). When you use these features, limited data may be transmitted to them:
 
-## 3. AI Recipe Extraction Features
+*   **Google LLC (Gemini AI):** Used for AI recipe extraction. If you provide a web link or an image to extract a recipe, this content is sent to Google's Gemini API for processing. Your request may also include your IP address for routing purposes. Google does not use your data to train their enterprise models.
+*   **Supadata:** Used to extract data and transcripts from shared URLs (such as YouTube or TikTok links). Only the specific URL you choose to import is sent to their API.
+*   **RevenueCat:** Used to manage in-app purchases and subscriptions. RevenueCat collects anonymous data such as purchase history, subscription status, IP addresses, and basic device identifiers to validate and manage your access. RevenueCat does not receive your name, email, or exact physical location.
 
-If you use our AI features to extract a recipe from a web link (e.g., YouTube or TikTok) or an image:
+### International Data Transfers
+These third-party processors are primarily based in the United States. By using features such as AI Recipe Extraction or In-App Purchases, you acknowledge that the limited data required to provide these features (such as URLs, images, or anonymous device identifiers) will be transferred to and processed in the United States. These transfers are safeguarded under standard data protection mechanisms, such as Standard Contractual Clauses (SCCs) or the EU-US Data Privacy Framework, depending on the provider.
 
-*   **Temporary Processing:** The URL or image you provide is sent to our backend services and third-party AI providers (such as Google or OpenAI) solely for the purpose of analyzing the content and generating the recipe.
-*   **No Long-Term Storage:** This data is processed in real time. We do not persistently store the links or images you share, nor do we link these requests to a personal profile.
+## 3. Data Retention
+
+Data sent to our third-party processors (Google Gemini and Supadata) is processed in real-time. We do not persistently store the links or images you share, nor do we link these requests to a personal profile. 
 
 ## 4. Email Communication
 
