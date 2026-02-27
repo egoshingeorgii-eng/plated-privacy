@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Plated: Recipes & Groceries ("we", "our", or "us") respects your privacy and is committed to protecting your information. This Privacy Policy explains what data we collect, how we use it, and how we share it when you use the Plated: Recipes & Groceries mobile app and related backend services.
+Plated: Recipes & Groceries ("we", "our", or "us") is operated by Georgii Egoshin and located in Novi Sad, Serbia. We respect your privacy and are committed to protecting your information. This Privacy Policy explains what data we collect, how we use it, and how we share it when you use the Plated: Recipes & Groceries mobile app and related backend services.
 
 ## Information We Collect
 
@@ -159,3 +159,4 @@ We may update this policy from time to time. We will update the "Last Updated" d
 If you have questions or requests about this Privacy Policy:
 
 - **Email**: egoshin.georgii@gmail.com
+- **Operator**: Georgii Egoshin (legal name), Novi Sad, Serbia
