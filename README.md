@@ -1,9 +1,11 @@
 # Privacy Policy for Plated: Recipes & Groceries
 
-**Last Updated:** February 27, 2026  
-**Effective Date:** February 27, 2026
+**Last Updated:** March 4, 2026  
+**Effective Date:** March 4, 2026
 
-*Looking for our Terms of Service? [Click here to read the Terms of Service](./TERMS_OF_SERVICE.md).*
+## Terms of Use
+
+Plated: Recipes & Groceries uses the [Apple Standard End User License Agreement (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) as its Terms of Use for App Store distribution.
 
 ## Introduction
 
