@@ -47,10 +47,13 @@ We use data to:
 ### On-Device Storage
 
 - Imported and user-created recipes are stored locally on your device by default.
+- In the normal app flow, deleting the app from your device removes this on-device recipe data.
 
 ### Backend Storage (Cloud)
 
-Our backend currently stores limited operational records, including:
+We do not maintain a general cloud account database for routine storage of all user-created recipes in the standard app flow.
+
+Our backend may still process or store limited operational records, including:
 
 - **AI extraction cache records** (for performance and reliability).
 - **Usage event logs** (for feature usage tracking).
@@ -59,7 +62,7 @@ Our backend currently stores limited operational records, including:
 
 ### Cloud Recipe Sync (If Enabled)
 
-If cloud sync for user-imported recipes is enabled in your app version/account, we may store structured recipe fields such as:
+If cloud sync for user-imported recipes is enabled in a future or specific app version/account, we may store structured recipe fields such as:
 
 - title
 - ingredients
@@ -117,11 +120,11 @@ We use third-party services including:
 
 ## Data Retention
 
-- **On-device recipe data**: Retained until you delete it or uninstall the app.
+- **On-device recipe data**: Retained until you delete it in the app or uninstall the app. In the standard app flow, uninstalling the app removes this local recipe data from your device.
 - **Operational logs/caches**: Retained as needed for reliability, abuse prevention, and debugging, then deleted or rotated.
 - **Subscription/account records**: Retained as needed for billing, support, and legal compliance.
 
-If you request deletion, we will delete or anonymize personal data we control, unless we must keep certain records for legal, security, or fraud-prevention reasons.
+If you request deletion, we will delete or anonymize backend-side personal data we control where applicable, unless we must keep certain records for legal, security, or fraud-prevention reasons. Data stored only on your device can generally be removed by deleting it in the app or uninstalling the app.
 
 ## Your Rights
 
@@ -129,12 +132,12 @@ Depending on your region, you may have rights to:
 
 - Access your personal data
 - Correct inaccurate data
-- Delete your data
+- Request deletion of backend-side data we control
 - Object to or restrict certain processing
 - Request data portability
 - Withdraw consent where processing is consent-based
 
-To exercise rights, contact us at the email below.
+Most recipe data in the standard app flow is stored locally on your device, so deleting the app generally removes that local data. To exercise rights regarding backend-side data we control, contact us at the email below.
 
 ### California Residents (CCPA/CPRA)
 
