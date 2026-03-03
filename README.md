@@ -120,11 +120,11 @@ We use third-party services including:
 
 ## Data Retention
 
-- **On-device recipe data**: Retained until you delete it in the app or uninstall the app. In the standard app flow, uninstalling the app removes this local recipe data from your device.
+- **On-device recipe data**: Retained until you uninstall the app. In the standard app flow, uninstalling the app removes this local recipe data from your device.
 - **Operational logs/caches**: Retained as needed for reliability, abuse prevention, and debugging, then deleted or rotated.
 - **Subscription/account records**: Retained as needed for billing, support, and legal compliance.
 
-If you request deletion, we will delete or anonymize backend-side personal data we control where applicable, unless we must keep certain records for legal, security, or fraud-prevention reasons. Data stored only on your device can generally be removed by deleting it in the app or uninstalling the app.
+If you request deletion, we will delete or anonymize backend-side personal data we control where applicable, unless we must keep certain records for legal, security, or fraud-prevention reasons. Data stored only on your device can generally be removed by uninstalling the app.
 
 ## Your Rights
 
