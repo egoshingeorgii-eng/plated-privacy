@@ -153,7 +153,9 @@ We use reasonable technical and organizational safeguards to protect data. No me
 
 ## Children's Privacy
 
-Plated: Recipes & Groceries is not intended for children under 13. We do not knowingly collect personal data from children under 13.
+Plated: Recipes & Groceries is a general-audience app and is not offered as a Kids Category app. We do not knowingly collect personal data from children under 13 through backend-supported features in violation of applicable law.
+
+If you believe a child under 13 has provided personal data to us through backend-supported features, contact us and we will review and delete applicable backend-side data we control where required.
 
 ## Changes to This Policy
 
